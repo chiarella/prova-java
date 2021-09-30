@@ -12,8 +12,8 @@ O candidato deve ser implementar 2 desafios:
     Obs: Projeto subindo na porta 8888
     Criado as classes dentro do respectivo SpringMVC: 
         DadosCadastroController
-            link/Endepoint para o Get para acessar a fórmula: 
-             http://localhost:8888/v1/dados/peso/35/altura/11
+            link/Endepoint para o Get para acessar a fórmula, passamdo peso 85 kilos e altura 1 metro e 89 cm : 
+             http://localhost:8888/v1/dados/peso/85/altura/1.89
         DadosCadastroService    
             Regra: ` imc = Peso/Altura²`
 
