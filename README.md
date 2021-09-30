@@ -42,9 +42,9 @@ Após terminar o candidato deverá versionar a prova no git hub e nos mandar o r
 * Enviar para: lhsilva@travelexbank.com.br, msales@travelexbank.com.br, rlisboa@travelexbank.com.br
 
 Links uteis:
-https://chiarella.github.io/portifolio/
-https://github.com/chiarella
-https://github.com/chiarella?tab=repositories
+* https://chiarella.github.io/portifolio/
+* https://github.com/chiarella
+* https://github.com/chiarella?tab=repositories
 
 
 
